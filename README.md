@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshwainaina
-- 👀 I’m interested in app and  game programming
-- 🌱 I’m currently learning C# and HTML
+- 👀 I’m interested in app and  game development
+- 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on game design 
 - 📫 How to reach me @joshwairimu67@gmail.com
 
